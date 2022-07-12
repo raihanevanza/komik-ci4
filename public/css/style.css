@@ -1,0 +1,302 @@
+.sampul {
+  width: 100px;
+}
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.tablee > tbody > tr > * {
+  vertical-align: middle;
+}
+.table-table-dark-table-striped {
+  padding-bottom: 1000px;
+}
+.coba {
+  text-align: center;
+}
+.tolol::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(
+      90deg,
+      rgba(161, 238, 250, 0.7) 35%,
+      rgba(161, 238, 250, 0.7) 35%
+    ),
+    url("/gambar/wall.jpg");
+  background-size: cover;
+  z-index: -1;
+}
+.tolol {
+  max-width: 1500px;
+}
+.mt-2 {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: black;
+  padding-top: 60px;
+}
+.container {
+  padding-left: 1px;
+}
+.bodok {
+  text-align: center;
+  color: darkcyan;
+  font-weight: 750;
+  padding-top: 80px;
+}
+.my-3 {
+  margin-right: 50%;
+  color: white;
+}
+
+.putih {
+  color: black;
+  text-align: center;
+  padding-top: 60px;
+}
+.pbout {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  font-weight: 600;
+  padding-top: 20px;
+}
+.hbout {
+  padding-top: 10%;
+  color: black;
+  text-align: center;
+  font-weight: 700;
+}
+.hboout {
+  padding-top: 80px;
+  color: black;
+  text-align: center;
+  font-weight: 700;
+}
+.navbar {
+  font-family: sans-serif;
+  font-weight: 500;
+  background-color: #46a2ff;
+}
+.col-sm-2 {
+  color: black;
+  font-weight: 900;
+  font-size: larger;
+}
+.my-3 {
+  color: rgb(41, 41, 41);
+  padding-left: 280px;
+}
+.hbout {
+  padding-top: 10px;
+  font-weight: 800;
+  text-align: justify;
+}
+.navbar-brand {
+  font-weight: 400;
+}
+.jumbotron {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  color: aliceblue;
+  text-align: center;
+  background-color: #46a2ff;
+}
+.gambar {
+  padding-left: 38%;
+}
+.newsh1 {
+  padding-top: 60px;
+  color: rgb(41, 41, 41);
+  padding-left: 25%;
+}
+.nbout {
+  color: rgb(41, 41, 41);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 200;
+  text-align: justify;
+  padding-bottom: 25px;
+}
+.boldo {
+  font-weight: 800;
+}
+.btn-contact {
+  margin-left: 200px;
+  border-radius: 5px;
+}
+.coa {
+  margin-left: 50%;
+  background-color: cornsilk;
+  padding-bottom: 30px;
+  margin-top: 40px;
+  padding-top: 1px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 30px;
+  max-width: 1000px;
+}
+.nana {
+  margin-left: 300px;
+  margin-right: 20px;
+  background-color: cornsilk;
+  padding-bottom: 30px;
+  margin-top: 40px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 30px;
+  max-width: 1000px;
+}
+.formcontactext {
+  margin-left: 90px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  font-weight: 700;
+  font-size: 25px;
+}
+.form-control {
+  margin-left: 10px;
+}
+.card {
+  text-align: center;
+  margin-left: 20px;
+  max-width: 3000px;
+  margin-bottom: 50px;
+  max-width: 1500px;
+  padding-right: 1px;
+}
+.gambargallery1 {
+  margin: 3px;
+  width: 300px;
+  height: 300px;
+}
+.textgallery1 {
+  margin-top: 10px;
+  margin-right: 40px;
+}
+.createni {
+  margin-top: 80px;
+  margin-left: 150px;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+.createni-news {
+  margin-top: 80px;
+  margin-left: 150px;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+
+.alert1 {
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: 400;
+}
+.input-group {
+  margin-left: 480px;
+}
+.sinopsis {
+  text-align: justify;
+}
+.sampul-news {
+  display: block;
+  max-width: 50%;
+  max-height: 50%;
+}
+.news-card {
+  margin-top: 70px;
+}
+.title-news {
+  font-weight: 1000;
+  font-size: larger;
+}
+.title-detail {
+  font-weight: 900;
+  padding-left: 1000px;
+  text-align: justify;
+}
+.content-news {
+  text-align: justify;
+  font-weight: 500;
+}
+.news-detail {
+  margin-top: 80px;
+}
+.detail-news2 {
+  margin-top: 80px;
+}
+.footer-cuy {
+  position: fixed;
+}
+.title-mantep {
+  font-weight: 900;
+  font-size: 30px;
+}
+.detail-card {
+  margin-top: 70px;
+}
+.detail-card-2 {
+  margin-top: 80px;
+}
+.form-search {
+  margin-left: 570px;
+  margin-top: 70px;
+}
+.form-search-1 {
+  margin-left: 480px;
+  margin-top: 70px;
+}
+.ubah-news {
+  text-align: center;
+}
+.form-ubah {
+  margin-left: 300px;
+  background-color: cornsilk;
+  padding-bottom: 30px;
+  margin-top: 80px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 30px;
+  text-align: center;
+}
+.form-create {
+  margin-left: 300px;
+  background-color: cornsilk;
+  padding-bottom: 30px;
+  margin-top: 80px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 30px;
+}
+.createni-komik {
+  margin-left: 70px;
+}
+.createni-news {
+  margin-left: 70px;
+}
+.form-ubah-komik {
+  margin-left: 300px;
+  background-color: cornsilk;
+  padding-bottom: 30px;
+  margin-top: 80px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 30px;
+  text-align: center;
+}
+.ubah-komik {
+  margin-left: 50px;
+}
+.table-pesan-admin {
+  margin-top: 80px;
+  margin-left: 35px;
+}
+.pagination-pesan {
+  margin-left: 34px;
+}
+.tambah-komik {
+  margin-top: 80px;
+}
